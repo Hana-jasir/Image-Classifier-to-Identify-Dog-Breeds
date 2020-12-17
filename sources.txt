@@ -1,0 +1,5 @@
+https://pyformat.info/
+https://docs.python.org/3/library/time.html#module-time
+https://www.w3schools.com/python/python_ref_list.asp
+https://docs.python.org/3/library/stdtypes.html#string-methods
+https://pytorch.org/docs/stable/torchvision/transforms.html
